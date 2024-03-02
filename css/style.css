@@ -1,0 +1,231 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+.divbarra{
+  background-color: #0078b4;
+  width: 100%;
+  height: 30px;
+  border: 1px solid black;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: white;
+  padding-top: 10px;
+
+}
+
+.divlogo{
+  display: flex;
+  justify-content: center;
+}
+
+.divenlaces{
+  display: flex;
+  justify-content: center;
+}
+
+.enlaces{
+  border-left: 1px black solid;
+  text-decoration: none;
+  margin: 10px;
+  padding-left: 20px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  color: #0078b4;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.imagenm{
+  width: 600px;
+  height: 300px;
+  margin-right: 25px;
+}
+
+.marqueecells{
+margin: auto;
+width: 100%;
+height: 300px;;
+;
+}
+
+.table{
+  text-align: center;
+  margin: auto;
+  border-collapse: collapse;
+  width: 560px;
+  height: 313px;
+}
+
+.cabeceratabla{
+  background-color:	#000000;
+  color: #d3d3d3;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 8px;
+}
+.cabecera2{
+  color: #0078b4;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  padding-right: 15px;
+  padding-left: 10px;
+  padding-bottom: 15px;
+  text-align: center  ;
+  width: 50px;
+  padding-top: 10px;
+}
+
+.cabecearadiferente{
+  color: #0078b4;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding-left: 30px;
+  padding-right: 30px;
+  width: 120px;
+}
+.imgrowspan{
+  width: 25px;
+  height: 25px;
+}
+.imgrowspanuber{
+  width: 50px;
+  height: 25px;
+}
+
+.celdanormal{
+  border: none;
+  border-left: none;
+  border-radius: none;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 5px;
+  border-top: 1px solid #7a7979;
+  border-bottom: 1px solid #7a7979;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+
+}
+.celdanormal1{
+  border-top: 1px solid #7a7979;
+  background-color: #ebebeb;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #7a7979;
+}
+
+.celdacolorn1{
+  border-top: 1px solid #7a7979;
+  color: #ff7f50;
+  background-color: #ebebeb;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #7a7979;
+}
+
+.celdacon2{
+  border-top: 1px solid #7a7979;
+  border-bottom: 1px solid #7a7979;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.celdacolorn{
+  color: #ff7f50;
+  border-top: 1px solid #7a7979;
+  border-bottom: 1px solid #7a7979;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+
+
+
+.p1{
+
+  margin-left: 673px;
+  margin-right: 673px;
+  text-align: center;
+  background-color: #ebebeb;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.p2{
+  color: white;
+  background-color: #0078b4;
+  text-align: center;
+  margin-left: 673px;
+  margin-right: 673px;
+  margin-top: -15px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 10px 10px 10px;
+}
+
+.spanparrafo{
+  color: #0078b4;
+}
+
+h2{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #0078b4;
+  text-align: center;
+}
+
+.iframe1{
+  margin: 0 auto;
+  display: block; 
+}
+
+.divimgcontrata{
+  width: 120%;
+}
+
+.divimgcontrata{
+  background-image: url(../img/banner_publicidad.jpg);
+  background-size: 1700px auto;
+  background-repeat: no-repeat;
+  height: 150px;
+  background-color: #00baf3;
+}
+
+.h3contrata{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: white;
+  margin-left: 600px;
+  padding-top: 40px;
+  font-size: 30px;
+  width: 200px;
+  height: 0px;
+}
+
+.parrafopubli{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: white;
+  margin-left: 600px;
+  font-size: 20px;
+  width: 200px;
+}
+
+.divfooter{
+  background-color: #333333;
+  display: flex;
+  justify-content: center;
+  height: 150px;
+}
+
+.logo-att{
+  margin-top: 36px;
+  width: 180px;
+  height: 60px;
+
+}
+
+
+
